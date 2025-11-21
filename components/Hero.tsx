@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
           transition={{ delay: 0.5, duration: 0.8 }}
         >
           <span className="text-brand-pink tracking-[0.5em] uppercase text-sm md:text-base mb-4 block">
-            New Collection 2024
+            New Collection 2025
           </span>
           <h1 className="text-5xl md:text-7xl lg:text-9xl font-serif text-white font-bold mb-6">
             {slides[current].title}
